@@ -1,37 +1,11 @@
-# SPMS
+1、软硬件平台
+IDE：IntelliJ IDEA 2020.1
+JDK：Java8
+运行环境：Window10
+数据库：MySQL-V5.7
+2、 MySQL驱动
+到MySQL驱动官网下载对应的驱动 – > 传送门，这里我下载的是mysql-connector-java-5.1.47.jar，大家可以参考一下。
 
-#### 介绍
-基于GUI的学生成绩管理系统 
+对应的MySQL安装教程可观看往期博客：MySQL-V5.7 压缩包版安装教程
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+在下载之后直接复制到IDEA中，建议根目录下新建一个lib文件夹，再将驱动复制进去，最后需要在该文件夹鼠标右击，选择Add as Library。这里需要注意的是直接将下载的文件复制进去不需要进行其余操作。
