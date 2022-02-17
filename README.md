@@ -1,4 +1,4 @@
-对应的博客介绍 --> https://blog.csdn.net/Aqting/article/details/122273221?spm=1001.2014.3001.5501
+对应的博客介绍 --> [基于GUI的学生成绩管理系统](https://blog.csdn.net/Aqting/article/details/122273221?spm=1001.2014.3001.5501)
 
 1、软硬件平台
 IDE：IntelliJ IDEA 2020.1
